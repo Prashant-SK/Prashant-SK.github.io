@@ -12,8 +12,8 @@
 }
 
 .header_area .main-menu .nav-item .nav-link{
-    font-family: "Manrope",cursive;
-    text-transform: uppercase;
+    font-family: 'Manrope', sans-serif;
+    /*text-transform: uppercase;*/
     font-weight: 500;
     padding: 1.7rem;
     color: black;
